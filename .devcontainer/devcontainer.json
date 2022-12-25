@@ -1,0 +1,15 @@
+{
+    "name": "C++ Codespace",
+    "build": {
+        "dockerfile": "Dockerfile"
+    },
+    "customizations": {
+      "vscode": {
+        "settings": {},   
+        "extensions": [
+          "vscode-cpptools",
+          "vscode-cmake-tools"
+        ]
+      }
+    }   
+}
