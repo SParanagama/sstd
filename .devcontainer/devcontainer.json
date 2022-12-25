@@ -7,7 +7,7 @@
       "vscode": {
         "settings": {},   
         "extensions": [
-          "vscode-cpptools",
+          "ms-vscode.cpptools-extension-pack",
           "vscode-cmake-tools"
         ]
       }
